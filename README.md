@@ -20,13 +20,13 @@ Validate core functionalities of [saucedemo.com](https://www.saucedemo.com) acro
    
 - **Risks Assessed:**  
   - Broken UI elements  
-  - Payment flow errors  
+  - Checkout flow errors  
   - Performance issues  
 
 ---
 
 ## **Approach**  
-- Exploratory Testing: Manually tested each user type by validating workflows and looking for unexpected behaviors or system failures.  
+- Exploratory Testing: Manually tested each user type by validating workflows and looking for unexpected behaviours or system failures.  
 
 ---
 
