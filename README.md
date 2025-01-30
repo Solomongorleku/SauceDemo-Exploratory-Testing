@@ -1,20 +1,36 @@
-# SauceDemo-Exploratory-Testing
-OBJECTIVE
-Validate core functionalities of saucedemo.com across all user types, including:
-•	Login/Logout
-•	Product browsing and cart management
-•	Checkout workflow
-•	Error handling
+# SauceDemo Exploratory Testing  
 
-SCOPE
-•	Users: standard_user, locked_out_user, problem_user, performance_glitch_user, error_user
-visual_user
-•	Risks: Broken UI elements, payment flow errors, performance issues
+## **Objective**  
+Validate core functionalities of [saucedemo.com](https://www.saucedemo.com) across all user types, including:  
+- Login/Logout  
+- Product browsing and cart management  
+- Checkout Workflow  
+- Error handling  
 
-APPROACH
-•	Exploratory Testing - Manually test for each user
+---
 
-EXIT CRITERIA
-•	All users tested
-•	Critical workflows validated
-•	Major issues documented
+## **Scope**  
+- **Users Tested:**  
+  - `standard_user`  
+  - `locked_out_user`  
+  - `problem_user`  
+  - `performance_glitch_user`  
+  - `error_user`  
+  - `visual_user`  
+   
+- **Risks Assessed:**  
+  - Broken UI elements  
+  - Payment flow errors  
+  - Performance issues  
+
+---
+
+## **Approach**  
+- Exploratory Testing: Manually tested each user type by validating workflows and looking for unexpected behaviors or system failures.  
+
+---
+
+## **Exit Criteria**  
+- All user types tested  
+- Critical workflows validated  
+- Major issues documented  
